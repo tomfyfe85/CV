@@ -14,7 +14,7 @@ I'm Tom, a former professional musician who found coding while times got tough d
 **Company Name** (2009-2023)  
 Freelance Musician
 - Playing functions, weddings, tours and giving private tutition.
-- As a side to this carrer from 2015 I would work causually as a landscape gardener but also as a art technician to british artist Emily Young though
+- As a side to this career from 2015 I would work causually as a landscape gardener but also as a art technician to british artist Emily Young though
 the art logistics/desgin company Wooton and Dawe.
  
 **Company Name** (2016 - 2023)  
@@ -24,7 +24,7 @@ Peripatetic drumkit teacher - Burlington Danes Academy
 - We would work towards reular recitals, concerts and musicals in the school.
 
 Along side my music carrer I worked in the television industry from 2012-2014
-- I worked as a runner first, working on show like Celebrity juice at Riverside Studios, before becomming the perimant inhouse runner for the studios in late 2012. This leader to work as a junior camera assistant which inturn lead to a full time camera assistant role at The London Studios. I left the industry in late 2014/early 2015 to pursue my music carrer with more focus. 
+- I worked as a runner first, working on show like Celebrity juice at Riverside Studios, before becomming the perimant inhouse runner for the studios in late 2012. This leader to work as a junior camera assistant which inturn lead to a full time camera assistant role at The London Studios. I left the industry in late 2014/early 2015 to pursue my music career with more focus. 
 
 - Any experience relevent to software development
 
@@ -41,7 +41,7 @@ Because myself and everyone else had prepared in our own time suffiecntly and ma
 
 Emotional intelligence -
 
-As above, sometimes you'd be put with people you had never met beofore to play for 2 hours with no rehearsal. It was just upto you to have done the work at home sufficiently. It was quite often to feel like the new guy every time, other times others would be be the new guy. When working like this, it is really important to be able to read the room so to speak) and get an idea of how people are feeling. I always found that people (myself included) are at their best when they are relaxed and feel welcome if they are new. Maybe if they feel intimidted they won't ask for help (which could be crucial if they are unsure of something), maybe something else is going on that they need to talk about. If every one is feeling postive an relaxed, every thing always went smoother. So this is some thing I would always try to bare in  mind when working with a new group. 
+As above, sometimes you'd be put with people you had never met beofore to play for 2 hours with no rehearsal. It was just upto you to have done the work at home sufficiently. It was quite often to feel like the new guy every time, other times others would be be the new guy. When working like this, it is really important to be able to read the room (so to speak) and get an idea of how people are feeling. I always found that people (myself included) are at their best when they are relaxed and feel welcome if they are new. Maybe if they feel intimidted they won't ask for help (which could be crucial if they are unsure of something), maybe something else is going on that they need to talk about. If every one is feeling postive an relaxed, every thing always went smoother. So this is some thing I would always try to bare in mind when working with a new group. 
 
 
 -STAR
