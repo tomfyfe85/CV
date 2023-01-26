@@ -1,13 +1,35 @@
-## Tom Fyfe
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
+![Contactable](https://img.shields.io/badge/Contactable-For_sure-9cf)
+![Status](https://img.shields.io/badge/Status-Probably_listening_to_music-ff69b4)
 
-I'm Tom, a former professional musician who found coding while times got tough during the pandmeic. I'm a graduate of the Guildhall school or Music and Drama with years live, recording and teaching experience. Before I was into music, I was spent most of my time with computers and particualry enjoyed anything problem solving based, I also loved space and still do! But along side this I grew up in a creative house hold, so art and design were a big part of my up bringing. During my time at the Makers academy I found that these two things could benefit one another. I really enjoyed Frontend development and how thing look and feel to use. It matters to me, I and would love opertunity to development these skills further more about making things look amazing and feel great!
+<div align="center">
 
-## Projects
+[//]: # (Testing how to make comments which aren't rendered)
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-|             |
+# Tom Fyfe (tomfyfe85@gmail.com) #
+ <a href="https://www.linkedin.com/in/tomfyfe">Linkedin</a>
+ <a href="https://www.codewars.com/users/tomfyfe85">Codewars</a>
+
+</div>
+ 
+ ## <a name="about_me">About me </a>
+ 
+A passionate Frontend software developer with an eye for what looks good. Drummer and pizza blogger the rest of the time!
+
+I'm a former professional musician who found coding while times got tough during the pandmeic. Before I was into music, I was spent most of my time with computers and particualry enjoyed anything problem solving based, I also loved space and still do! But along side this I grew up in a creative house hold, so art and design were a big part of my up bringing. During my time at the Makers academy I found that these two things could benefit one another. I really enjoyed Frontend development and how thing look and feel to use. It matters to me, I and would love opertunity to development these skills further more about making things look amazing and feel great!
+ 
+ I would love to be part of be part of a company with a passion for design and creating new and intuiative user interfaces.
+
+## <a name="projects">What I've been working on (Projects) 👨‍💻</a>
+
+| Name                                 | Description          | Tech/tools        |
+| ----------------------------         | -----------------    | ----------------- |
+
+ <a href="https://www.zeropercentbrews.com">
+  zeropercentbrews.com
+          </a>                         | A non-alcoholic beer
+                                         recomendation site.  | React, Jest, etc. |
+          
 
 ## Work Experience
 
