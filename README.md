@@ -1,13 +1,13 @@
 ## Tom Fyfe
 
-I'm Tom, a former professional musician who found coding while times got tough during the pandmeic. I'm a graduate of the Guildhall school or Music and Drama with years touring and recording experience. Before I was into music I was facinated by space and space exploaration, the opertunity to be able to put the skills I'll develop at Makers into a job in the Aerospace industry and utimatley contribute to the understanding of our universe via space exploration is something that I feel is a responsible use of these skills and has been a life long dream, 2019  which I thought would be unobtainable until now. 
+I'm Tom, a former professional musician who found coding while times got tough during the pandmeic. I'm a graduate of the Guildhall school or Music and Drama with years live, recording and teaching experience. Before I was into music, I was spent most of my time with computers and particualry enjoyed anything problem solving based, I also loved space and still do! But along side this I grew up in a creative house hold, so art and design were a big part of my up bringing. During my time at the Makers academy I found that these two things could benefit one another. I really enjoyed Frontend development and how thing look and feel to use. It matters to me, I and would love opertunity to development these skills further more about making things look amazing and feel great!
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+|             |
 
 ## Work Experience
 
@@ -26,12 +26,6 @@ Peripatetic drumkit teacher - Burlington Danes Academy
 Along side my music carrer I worked in the television industry from 2012-2014
 - I worked as a runner first, working on show like Celebrity juice at Riverside Studios, before becomming the perimant inhouse runner for the studios in late 2012. This leader to work as a junior camera assistant which inturn lead to a full time camera assistant role at The London Studios. I left the industry in late 2014/early 2015 to pursue my music career with more focus. 
 
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
 Working underpressure - 
 
