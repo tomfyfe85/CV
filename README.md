@@ -16,7 +16,7 @@
  
 A passionate Frontend software developer with an eye for what looks good. Drummer and pizza blogger the rest of the time!
 
-I'm a former professional musician who found coding while times got tough during the pandmeic. Before I was into music, I was spent most of my time with computers and particualry enjoyed anything problem solving based, I also loved space and still do! But along side this I grew up in a creative house hold, so art and design were a big part of my up bringing. During my time at the Makers academy I found that these two things could benefit one another. I really enjoyed Frontend development and how thing look and feel to use. It matters to me, I and would love opertunity to development these skills further more about making things look amazing and feel great!
+I'm a former professional musician who found coding while times got tough during the pandmeic. Before I was into music, I was spent most of my time with computers and particualry enjoyed anything problem solving based, I also loved space and still do! But along side this I grew up in a creative house hold, so art and design were a big part of my up bringing. During my time at the Makers academy I found that these two interests could benefit one another. I really enjoyed Frontend development and how things look and feel to use. It matters to me, I and would love opertunity to development these skills further more about making things look amazing and feel great!
  
  I would love to be part of be part of a company with a passion for design and creating new and intuiative user interfaces.
 
