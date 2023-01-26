@@ -22,13 +22,16 @@ I'm a former professional musician who found coding while times got tough during
 
 ## <a name="projects">What I've been working on (Projects) 👨‍💻</a>
 
-| Name                                 | Description          | Tech/tools        |
-| ----------------------------         | -----------------    | ----------------- |
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
- <a href="https://www.zeropercentbrews.com">
-  zeropercentbrews.com
-          </a>                         | A non-alcoholic beer
-                                         recomendation site.  | React, Jest, etc. |
+| Name          | Description          | Tech/tools        |
+| --------------| ----------------   | ----------------- |
+| <a href="https://www.zeropercentbrews.com">zeropercentbrews.com</a>| A non-alcoholic beer recomendation site.|MERN stack, CSS, cypress, jest, postman.|
+  
+                
+              
           
 
 ## Work Experience
