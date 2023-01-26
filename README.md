@@ -16,15 +16,11 @@
  
 A passionate Frontend software developer with an eye for what looks good. Drummer and pizza blogger the rest of the time!
 
-I'm a former professional musician who found coding while times got tough during the pandmeic. Before I was into music, I was spent most of my time with computers and particualry enjoyed anything problem solving based, I also loved space and still do! But along side this I grew up in a creative house hold, so art and design were a big part of my up bringing. During my time at the Makers academy I found that these two interests could benefit one another. I really enjoyed Frontend development and how things look and feel to use. It matters to me, I and would love opertunity to development these skills further more about making things look amazing and feel great!
+I'm a former professional musician who found coding while times got tough during the pandmeic. Before I was into music, I was spent most of my time with computers and particularly enjoyed anything problem solving based, I also loved space and still do! But along side this I grew up in a creative house hold, so art and design were a big part of my up bringing. During my time at the Makers academy I found that these two interests could benefit one another. I really enjoyed Frontend development and how things look and feel to use. It matters to me, I and would love opertunity to development these skills further more about making things look amazing and feel great!
  
  I would love to be part of be part of a company with a passion for design and creating new and intuiative user interfaces.
 
 ## <a name="projects">What I've been working on (Projects) 👨‍💻</a>
-
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 | Name          | Description          | Tech/tools        |
 | --------------| ----------------   | ----------------- |
