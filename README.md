@@ -6,7 +6,7 @@
 
 [//]: # (Testing how to make comments which aren't rendered)
 
-# Tom Fyfe (tomfyfe85@gmail.com) #
+# Tom Fyfe (tomfyfetech@gmail.com) #
  <a href="https://www.linkedin.com/in/tomfyfe"><img src="images/Linkedin.png" width="110" alt="LinkedIn"></a>
  <a href="https://www.codewars.com/users/tomfyfe85"><img src="images/codewars.svg" width="100" alt="Codewars"></a>
 
