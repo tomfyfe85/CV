@@ -39,7 +39,7 @@ I'm a former professional musician who discovered coding when times became tough
 
 **Lizzy's on the Green**(Sept 2021 - Oct 2022 /Makers/ Returned Jan 2023 - on going)  
 
-Upon deciding to appy for Makers I thought it was best to not take on any more performance work and get a job that was flexible and gave me time and head space to prepare for the application process. Teaching and working at this cafe allowed me to have more consistant working hours and a stabler inviroment to get my Ruby up to scratch. I continue to work here now after the course has finished untill I find my first developer role.
+Upon deciding to appy for Makers I thought it was best to not take on any more performance work and get a job that was flexible and gave me time and head space to prepare for the application process. Teaching and working at this cafe allowed me to have more consistant working hours and a stabler enviroment to get my Ruby up to scratch. I continue to work here now after the course has finished untill I find my first developer role.
 
 **Wooton and Dawe Art & Design Logistics – Art Technician** (2014-2021)
 - My role involved the installation and transportation of valuable works of art. I was proud to work with the Emily Young, who is regarded as Britain’s greatest living stone sculptor. The scale of Emily’s work meant that as a team we had to focus on careful planning and clear communication to ensure everything went to plan,  whilst also keeping in mind the overall look and feel that the artist wanted to convey.  I was also in charge of polishing and maintaining Emily’s work displayed publicly over London, including works at St. James’s Church (Piccadilly), Neo Bankside (opposite the Tate Modern) and the Michelin star Green House restaurant, Mayfair.
