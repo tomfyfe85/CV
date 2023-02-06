@@ -37,20 +37,25 @@ I'm a former professional musician who discovered coding when times became tough
 **Freelance Musician** (2009-2023)  
 - My professional music career has included playing with bands at functions and weddings, and going on UK and European tours. Most notably, I have played extensively with the Hackney Colliery Band in addition to various personal projects the UK and Europe and regularly still play in London and around the England professionally in a function band setting. 
 
-**Lizzy's on the Green**(Sept 2021 - Oct 2022 /Makers/ Returned Jan 2023 - on going)  
+**Barista & Front of House at Lizzy’s on the Green Cafe (Sept 2021 - ongoing)**
+- Excellent communication skills, rapport building and empathy - dealing with customers and getting to know the regulars; understanding their needs so they continue to visit. 
+- Multi-tasking to give a high standard of service - being across orders, coffee-making and food prep, ensuring customers received their items in a timely fashion. 
 
-Upon deciding to appy for Makers I thought it was best to not take on any more performance work and get a job that was flexible and gave me time and head space to prepare for the application process. Teaching and working at this cafe allowed me to have more consistant working hours and a stabler enviroment to get my Ruby up to scratch. I continue to work here now after the course has finished untill I find my first developer role.
-
-**Wooton and Dawe Art & Design Logistics – Art Technician** (2014-2021)
-- My role involved the installation and transportation of valuable works of art. I was proud to work with the Emily Young, who is regarded as Britain’s greatest living stone sculptor. The scale of Emily’s work meant that as a team we had to focus on careful planning and clear communication to ensure everything went to plan,  whilst also keeping in mind the overall look and feel that the artist wanted to convey.  I was also in charge of polishing and maintaining Emily’s work displayed publicly over London, including works at St. James’s Church (Piccadilly), Neo Bankside (opposite the Tate Modern) and the Michelin star Green House restaurant, Mayfair.
+**Art Technician - Wootton and Dawe Art & Design Logistics –  (2014-2021)**
+- Project management, forward planning, logistics & working reactively - installing, transporting and maintaining valuable sculptures by Emily Young in a small team.
+- Building good team rapport and a trusting relationship with Emily - preparing sculptures for sale and exhibitions independent of input from Emily, who grew to trust my opinion when it came to hands-on preparation and the staging of a sculpture, which were often worth over £100k.  
  
-**Burlington Danes Academy - Peripatetic Drumkit Teacher** (2016 - 2023)  
-- I taught drumkit to individuals and pairs of students, as well as helping to run school bands.
-- The students ranged in ability from total beginners to those taking grade exams and GCSE and A Level students, meaning that I had to tailor my teaching style and technical language according to different levels of experience.  
--  As well as planning lessons in accordance with each pupil’s ability and progress, we would also work towards regular recitals, concerts and musicals performed at the school. 
+**Peripatetic Drum kit Teacher - Burlington Danes Academy (2016 - 2023)**
 
-**Freelance Television Studio Assistant** (2012-2014)
-Due to the nature of my music career at the time, I also worked in the television industry, starting out as a studio runner at Riverside Studios in Hammersmith for shows such as Celebrity Juice. Off the back of this I was offered the job of in-house runner at the studios, which in turn lead to work as a Camera Assistant, ultimately in a full time role at The London Studios. I left the industry in late 2014 to pursue my music career with more focus, as  I came to realise it held more interest to me. 
+- I taught drums to individuals students of all levels, meaning I was constantly adapting and tailoring lesson plans. I approached each lesson empathically but efficiently, and with good time management to get the most out of the contact time.
+- Monitoring students progress, interacting with parents and heads of department - giving and accepting feedback and supporting students as they progressed. 
+- I devised new interpretations of popular music repertoire to keep students engaged, and coach them to perform these live to a professional level (eg arranging a Wu-Tang Clan song for a brass-led jazz ensemble).  
+
+
+
+**Freelance Television Camera Assistant - Riverside Studios & TLS (2012-2014)**
+- Learning a camera’s spec in detail, I learnt to absorb and process this technical information quickly and efficiently, to prepare correctly for lives studio records (Eg The X Factor, TV & Film Baftas).
+- Working intuitively to pre-empt the needs of my camera operator was key to ensuring a solid working relationship - I had to be accountable for whatever call I made. 
 
  ## Skills I Can Bring To The Table
 
@@ -60,12 +65,12 @@ Both teaching and working as a professional musician in bands is as much about g
 
 **Working under pressure -** 
 
-Whether it is playing the first dance at a wedding with no rehearsal or manoeuvring thousands of pounds worth of art into the correct position under the watchful eye of the artist, I came to learn that a successful outcome really boils down to preparation and communication between the group. Understanding what is at stake – the enjoyment of the wedding guests (and the bride and groom who have paid a lot of money to have you there), or the reputation of an artist for example – means that I have learnt to get things absolutely right first time. With a combination of ample preparation, good communication and ultimately having trust in my bandmates or colleagues, I learnt to absorb pressure and not let it take over. In tech I believe that for me this translates into not being phased by big, seemingly unsolvable problems. Through preparation, considered thought and calm reasoning, any problem can be solved.
+Whether it is playing the first dance at a wedding with no rehearsal or manoeuvring thousands of pounds worth of art into the correct position under the watchful eye of the artist, I came to learn that a successful outcome really boils down to preparation and communication between the group. Understanding what is at stake – the enjoyment of the wedding guests (and the bride and groom who have paid a lot of money to have you there), or the reputation of an artist for example – means that I have learnt to get things absolutely right first time. With a combination of ample preparation, good communication and ultimately having trust in my bandmates or colleagues, I learnt to absorb pressure and not let it take over. In tech I believe that for me this translates being able to solve any problem through preparation, considered thought and calm reasoning. I put this to particularly good use in our final project when I succesfully change the button functionality of the app the night before our deadline. 
 
 
-**Emotional intelligence -**
+**Team work -**
 
-As outlined above, sometimes I'd have a few hours’ notice of a set list with no time for rehearsal. But that was the norm, the expectation was that you’d have sufficient groundwork at home beforehand. It was quite common to feel like the new guy every time, but when working like this, I found it really important to be able to read the room, form good connections quickly and get an idea of how people were feeling. I find that when people (myself included) find themselves in a new situation, they do their best when they are relaxed and feel welcome, and if they feel intimidated they won't ask for help. On occasions when everyone felt positive and relaxed, everything always went smoother. So this is something I would always try to bear in mind when working with a new group on the course at Makers. 
+As outlined above, sometimes I'd have a few hours’ notice of a set list with no time for rehearsal. But that was the norm, the expectation was that you’d have sufficient groundwork at home beforehand. It was  common to feel like the new guy every time, but when working like this, I found it important to to read the room, form good connections quickly and get an idea of how people were feeling. I find that when people (myself included) find themselves in a new situation, they do their best when they are relaxed and feel welcome, and if they feel intimidated they won't ask for help. This is something I would always bear in mind when working with a new group on the course at Makers - if I noticed someone had not contributed i'd make a point of asking thier opinion.
 
 **Time management and efficiency -**
 
