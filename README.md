@@ -88,15 +88,9 @@ This course focused on:
 - Facilitating knowledge sharing (selected to be a Mentor newer students)
 - Completed the Makers emotional intelligence curiculum, being trained in emapthy, feedback and teamwork.  
 
-#### Guildhall School of Music and Drama (2009 - 2010)
+#### Master of Music - Jazz Performance (Drum Set), Guildhall School of Music and Drama (2009 - 2010)
 
-Master of Music - Jazz Performance (Drum Set)
-One of the most fun experiences here was being the drummer in the Guildhall Big Band, playing classic albums such as Mile's Davis's 'Porgy and Bess' and featuring special guests from the UK/International jazz scene on the performance.
-
-#### Middlesex University (2006 - 2009)
-
-BA Jazz(hons) - 2:1
-(Drum Set)
+#### BA Jazz(hons) - 2:1 Middlesex University (2006 - 2009)
 
 ## When I'm Not Coding -
 I'm still passionate about music and continue to play in my own original projects, one my favourite things to do in my own time is to practice my instrument and make music!                  
