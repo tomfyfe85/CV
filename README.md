@@ -12,7 +12,7 @@
 
 </div>
  
- ## <a name="about_me">About Me </a>
+ ## <a name="about_me">About Me 👋 </a>
  
 I’m a recently qualified and passionate Frontend Software Developer with an eye for what looks good. In my free time I play drums and write a blog about pizzas! 
 
@@ -33,7 +33,7 @@ I'm a former professional musician who discovered coding when times became tough
 |<a href="https://github.com/tomfyfe85/bank_tech_test-">Banking app <br/>(tech test)<a/>| A tech test example exercise from Makers. Design, test and build a simple banking app.| Node, Jest
 |<a href="https://github.com/tomfyfe85/tomfyfe.com">tomfyfe.com-repo</a>| My personal portfolio site <br/> !under construction!| CSS, HTML, JavaScript|
               
-## Work Experience
+## Work Experience 👷‍♂️
 
 **Freelance Musician (drum set) - functions, events and international tours (2009-2023)**   
 - Working independently, lifelong learning & always striving to improve my skillset - I often had to learn a new 2 hour set each week. 
@@ -57,7 +57,7 @@ I'm a former professional musician who discovered coding when times became tough
 - Working intuitively to pre-empt the needs of my camera operator, which was key to ensuring a solid working relationship - I had to be accountable for whatever call I made. 
 
 
- ## Skills I Can Bring To The Table
+ ## Skills I Can Bring To The Table 🎯
 
 **Communication -**
 
@@ -76,7 +76,7 @@ As outlined above, sometimes I'd have a few hours’ notice of a set list with n
 Working as a freelancer has required me to be organised, dedicated and reliable, all things that would affect my chances of future engagement. It means everything from managing one’s own time effectively during the working day to being fully prepared beforehand.
 Throughout my freelance years, I learnt how to efficiently absorb new information, quickly understand direction, communicate well and work towards to the good of the team without wasting time. These skills benefitted me at Makers, for example I was well organinsed and able to prepare work for demonstrations at our final project standups in good time.  
 
-## Education
+## Education 🎓
 
 #### Full Time Software Engineering Course - <a href="https://makers.tech/">Makers Academy<a/> (Oct 2022 - Jan 2023)
 This course focused on:
@@ -91,7 +91,7 @@ This course focused on:
 
 #### BA Jazz(hons) - 2:1 Middlesex University (2006 - 2009)
 
-## When I'm Not Coding -
+## When I'm Not Coding 🥁
 I'm still passionate about music and continue to play in my own original projects, one my favourite things to do in my own time is to practice my instrument and make music!                  
 <a href="https://apfrecords.co.uk/albums/folklore-myths-and-legends-of-the-brothers-keg">The Brothers Keg </a>
 <br>
