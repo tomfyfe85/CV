@@ -31,7 +31,7 @@ I'm a former professional musician who discovered coding when times became tough
 | --------------| ----------------   | ----------------- |
 | <a href="https://www.zeropercentbrews.com">zeropercentbrews.com <br/>(fully deployed site),</a><br/> <a href="https://github.com/alastair10/ZeroPercentBrews-client">Client repo,</a>                                               <a href="https://github.com/alastair10/ZeroPercentBrews-api">API repo,</a> <a href="https://www.youtube.com/watch?v=FMtE3SbgWtE">youtube</a> |Final group engineering project at for the Makers academy. A team of 4 created and deployed zeropercentbrews.com, a non - alcoholic beer recommendation site, in just over 7 days. |MERN stack, CSS, cypress, jest, postman|
 |<a href="https://github.com/tomfyfe85/bank_tech_test-">Banking app <br/>(tech test)<a/>| A tech test example exercise from Makers. Design, test and build a simple banking app.| Node, Jest
-|<a href="https://github.com/tomfyfe85/tomfyfe.com">tomfyfe.com-repo</a>| My personal portfolio site <br/> !under construction!| CSS, HTML, Node.js, jest|
+|<a href="https://github.com/tomfyfe85/tomfyfe.com">tomfyfe.com-repo</a>| My personal portfolio site <br/> !under construction!| CSS, HTML, JavaScript|
               
 ## Work Experience
 
