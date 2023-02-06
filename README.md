@@ -79,7 +79,7 @@ Throughout my freelance years, I learnt how to efficiently absorb new informatio
 
 ## Education
 
-#### Full time software engineering course - <a href=""Makers Academy (Oct 2022 - Jan 2023)
+#### Full time software engineering course - <a href="https://makers.tech/">Makers Academy<a/> (Oct 2022 - Jan 2023)
 This course focused on:
 
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns
