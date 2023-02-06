@@ -14,9 +14,9 @@
  
  ## <a name="about_me">About Me </a>
  
-I’m a recently qualified and passionate Frontend software developer with an eye for what looks good. In my free time I play drums and write a blog about pizzas! 
+I’m a recently qualified and passionate Frontend Software Developer with an eye for what looks good. In my free time I play drums and write a blog about pizzas! 
 
-I'm a former professional musician who discovered coding when times became tough during the pandemic. Before I started practicing and studying music full time, I spent most of my time with computers and particularly enjoyed anything problem-solving based, such as The Legend of Zelda! I was also fascinated by outer space – and I still am! Alongside these hobbies and interests I grew up in a creative household, so art and design had a big influence on my development, influencing and encouraging me to explore my own creative interests. During my time at the Maker’s Academy I found that these two interests could benefit one another – for example using having to use CSS and JSX, but also using compomants, hooks and fetching data in React is a lot of fun! So, naturally I found the part of the course that focused on Frontend Development particularly rewarding, and I realised that how things look and feel to use really matters to me. As such, I would love the opportunity to develop these skills further – I’ve come to realise that I’m all about making things look amazing and feel great! I would love to be part of a company that has a passion for design and whose priority is creating new and intuitive user interfaces.
+I'm a former professional musician who discovered coding when times became tough during the pandemic. Before I started practicing and studying music full time, I spent most of my time with computers and particularly enjoyed anything that included problem-solving, such as The Legend of Zelda! I was also fascinated by outer space – and I still am! Alongside these hobbies and interests I grew up in a creative household, so art and design had a big influence on my development, influencing and encouraging me to explore my own creative interests. During my time at the Maker’s Academy I found that these two interests could benefit one another – using CSS and JSX, but also using componants, hooks and fetching data in React is a lot of fun! Naturally I found the part of the course that focused on Frontend Development particularly rewarding, and I realised that how things look and feel to use really matters to me. As such, I would love the opportunity to develop these skills further – I’ve come to realise that I’m all about making things look amazing and feel great! I would love to be part of a company that has a passion for design and whose priority is creating new and intuitive user interfaces.
  
  ## <a name="tech-stack">Tech Stack 🤖</a> 
 - JavaScript (React, Node.js, Express, MongoDB, Jest, Cypress)
@@ -35,7 +35,8 @@ I'm a former professional musician who discovered coding when times became tough
 ## Work Experience
 
 **Freelance Musician** (2009-2023)  
-- My professional music career has included playing with bands at functions and weddings, and going on UK and European tours. Most notably, I have played extensively with the Hackney Colliery Band in addition to various personal projects the UK and Europe and regularly still play in London and around the England professionally in a function band setting. 
+- My professional music career has included playing with bands at functions and weddings, and going on UK and European tours. 
+- Most notably, I have played extensively with the Hackney Colliery Band in addition to various personal projects the UK and Europe and regularly still play in London and around the England professionally in a function band setting. 
 
 **Barista & Front of House at Lizzy’s on the Green Cafe (Sept 2021 - ongoing)**
 - Excellent communication skills, rapport building and empathy - dealing with customers and getting to know the regulars; understanding their needs so they continue to visit. 
