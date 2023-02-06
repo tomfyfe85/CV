@@ -30,6 +30,7 @@ I'm a former professional musician who discovered coding when times became tough
 | Name          | Description         | Tech/tools        |
 | --------------| ----------------   | ----------------- |
 | <a href="https://www.zeropercentbrews.com">zeropercentbrews.com <br/>(fully deployed site)</a>| A non-alcoholic beer recomendation site - Final group project at Makers: <br/> <a href="https://github.com/alastair10/ZeroPercentBrews-client">Client Repo</a>,<br/> <a href ="https://github.com/alastair10/ZeroPercentBrews-api">API Repo</a> |MERN stack, CSS, cypress, jest, postman|
+|<a href="https://github.com/tomfyfe85/bank_tech_test-">Banking app (tech test)<a/>| A tech test example exercise from Makers. Design, test and build a simple banking app| Node, Jest
 |<a href="https://github.com/tomfyfe85/bank_tech_test-">tomfyfe.com-repo</a>| My personal portfolio site <br/> !under construction!| CSS, HTML, Node.js, jest|
               
 ## Work Experience
