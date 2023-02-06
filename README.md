@@ -75,13 +75,18 @@ As outlined above, sometimes I'd have a few hours’ notice of a set list with n
 **Time management and efficiency -**
 
 Working as a freelancer has required me to be organised, dedicated and reliable, all things that would affect my chances of future engagement. It means everything from turning up on time to being fully prepared for the job, and being in charge of managing one’s own time effectively during the working day.
-Throughout my freelance years, I learnt how to efficiently absorb new information, quickly understand direction, communicate well and work towards to the good of the team.  I felt having this experience really benefitted me when working in an agile team environment, which felt very natural for me.
+Throughout my freelance years, I learnt how to efficiently absorb new information, quickly understand direction, communicate well and work towards to the good of the team. These skills benefitted me at Makers, for example I was well organinsed and preapre work for demonstrations at our final project standups. 
 
 ## Education
 
-#### Makers Academy (Oct 2022 - Jan 2023)
-- Immersive 16 week boot camp. This was a hybrid cohort of onsite and remote students, and we learnt effective ways to work remotely, frequently pairing up and working in groups. This required learning new skills in teamwork and communication in order to problem-solve effectively. We used agile practices and TDD to ensure a healthy working environment and produce high code quality.
+#### Full time software engineering course - <a href=""Makers Academy (Oct 2022 - Jan 2023)
+This course focused on:
 
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns
+- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Web frameworks, version control, and CI/CD to create full stack web apps
+- Facilitating knowledge sharing (selected to be a Mentor newer students)
+- Completed the Makers emotional intelligence curiculum, being trained in emapthy, feedback and teamwork.  
 
 #### Guildhall School of Music and Drama (2009 - 2010)
 
