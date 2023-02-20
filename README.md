@@ -16,7 +16,7 @@
  
 I’m a recently qualified and passionate Frontend Software Developer with an eye for what looks good. In my free time I play drums and write a blog about pizzas! 
 
-I'm a former professional musician who discovered coding when times became tough during the pandemic. Before I started practicing and studying music full time, I spent most of my time with computers and particularly enjoyed anything that included problem-solving, such as The Legend of Zelda! I was also fascinated by outer space – and I still am! Alongside these hobbies and interests I grew up in a creative household, so art and design had a big influence on my development, influencing and encouraging me to explore my own creative interests. During my time at the Maker’s Academy I found that these two interests could benefit one another – using CSS and JSX, but also using componants, hooks and fetching data in React is a lot of fun! Naturally I found the part of the course that focused on Frontend Development particularly rewarding, and I realised that how things look and feel to use really matters to me. As such, I would love the opportunity to develop these skills further – I’ve come to realise that I’m all about making things look amazing and feel great! I would love to be part of a company that has a passion for design and whose priority is creating new and intuitive user interfaces.
+I'm a former professional musician who discovered coding when times became tough during the pandemic. Before I started practicing and studying music full time, I spent most of my time with computers and particularly enjoyed anything that included problem-solving, such as The Legend of Zelda! I was also fascinated by outer space – and I still am! Alongside these hobbies and interests I grew up in a creative household, so art and design had a big influence on my development, influencing and encouraging me to explore my own creative interests. During my time at the Maker’s Academy I found that these two interests could benefit one another. In tandom with continuing to develope my backend skills I found that using CSS and JSX, but also using componants, hooks and fetching data in React is a lot of fun! Naturally I found the part of the course that focused on Frontend Development particularly rewarding, and I realised that how things look and feel to use really matters to me. As such, I would love the opportunity to develop both front and backend skills further – I’ve come to realise that I’m all about making things look amazing and feel great while getting thing to work well together behind the scenes! I would love to be part of a company that has a passion for design and whose priority is creating new and intuitive user interfaces.
  
  ## <a name="tech-stack">Tech Stack 🤖</a> 
 - JavaScript (React, Node.js, Express, MongoDB, Jest, Cypress)
@@ -48,16 +48,17 @@ I'm a former professional musician who discovered coding when times became tough
 - Building good team rapport and a trusting relationship with Emily - preparing sculptures for sale and exhibitions independent of her input. Emily grew to trust my opinion when it came to hands-on preparation and the staging of a sculpture, which were often worth over £100k.  
  
 **Peripatetic Drum kit Teacher - Burlington Danes Academy, London W12 (2016 - 2023)**
-- I taught drums to individual students of all levels, meaning I was constantly adapting and tailoring lesson plans. I approached each lesson empathically but efficiently, and with good time management to get the most out of the contact time.
-- Monitoring students progress, interacting with parents and heads of department - giving and accepting feedback and supporting students as they progressed. 
+- Constantly adapting and tailoring lesson plans to students of all levels.
+- Approaching each session empathically, with an eye on time management.
+- Monitoring progress, interacting with parents and heads of department, giving and accepting feedback and supporting progression.
 - Devising new interpretations of popular music repertoire to keep students engaged, and coaching them to perform these live to a professional level (e.g. arranging a Wu-Tang Clan song for a brass-led jazz ensemble).  
 
 **Freelance Television Camera Assistant - Riverside Studios & TLS (2012-2014)**
-- Learning a camera’s spec in detail, and absorbing and processing this technical information quickly and efficiently, to prepare correctly for lives studio records (Eg The X Factor, TV & Film Baftas).
-- Working intuitively to pre-empt the needs of my camera operator, which was key to ensuring a solid working relationship - I had to be accountable for whatever call I made. 
-
-
- ## Skills I Can Bring To The Table 🎯
+- Quickly and efficiently learning up to date technical skills to prepare correctly for live records (The X Factor, TV & Film Baftas).
+- Working intuitively to pre-empt my camera operators needs was key to ensuring a solid working relationship.
+- Being accountable for quick decisions and keeping cool in a high pressure live studio environment.
+  
+## Skills I Can Bring To The Table 🎯
 
 **Communication -**
 
@@ -65,7 +66,8 @@ Both teaching and working as a professional musician in bands is as much about g
 
 **Working under pressure -** 
 
-Whether it is playing the first dance at a wedding with no rehearsal or manoeuvring thousands of pounds worth of art into the correct position under the watchful eye of the artist, I came to learn that a successful outcome really boils down to preparation and communication between the group. Understanding what is at stake – the enjoyment of the wedding guests (and the bride and groom who have paid a lot of money to have you there), or the reputation of an artist for example – means that I have learnt to get things absolutely right first time. With a combination of ample preparation, good communication and ultimately having trust in my bandmates or colleagues, I learnt to absorb pressure and not let it take over. In tech, for me, this translates as being able to solve any problem through strong preparation, considered thought and calm reasoning. I put this to particularly good use in our final project when I succesfully change the button functionality of the app the night before our deadline. 
+I have found that a successful outcome really boils down to preparation and communication between the group. Whether it is playing the first dance at a wedding with no rehearsal or manoeuvring thousands of pounds worth of art into the correct position under the watchful eye of the artist. Understanding what is at stake – the enjoyment of the bride, groom and guests (getting hired again) or the reputation of an artist for example – means that I have learnt to get things absolutely right first time. 
+I learnt to absorb pressure and not let it take over. A combination of ample preparation, good communication and ultimately trusting my team was the key here. In tech, for me, this translates as being able to solve any problem through strong preparation, considered thought and calm reasoning. I put this to particularly good use in our final project when I succesfully change the button functionality of the app the night before our deadline. 
 
 **Team work -**
 
@@ -81,10 +83,10 @@ Throughout my freelance years, I learnt how to efficiently absorb new informatio
 #### Full Time Software Engineering Course - <a href="https://makers.tech/">Makers Academy<a/> (Oct 2022 - Jan 2023)
 This course focused on:
 
-- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns
-- Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web apps
-- Facilitating knowledge sharing (selected to be a Mentor newer students)
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns.
+- Agile principles, pair programming, stand-ups, retros, and sprint planning.
+- Web frameworks, version control, and CI/CD to create full stack web apps.
+- Facilitating knowledge sharing (selected to be a Mentor newer students).
 - Completing the Makers emotional intelligence curiculum, being trained in emapthy, feedback and teamwork.  
 
 #### Master of Music - Jazz Performance (Drum Set), Guildhall School of Music and Drama (2009 - 2010)
@@ -96,6 +98,7 @@ I'm still passionate about music and continue to play in my own original project
 <a href="https://apfrecords.co.uk/albums/folklore-myths-and-legends-of-the-brothers-keg">The Brothers Keg </a>
 <br>
 <a href="https://stubb.bandcamp.com/"> Stubb </a> <br>
-I also love pizza, checkout out my Instagram page here! <br>
+I'm a avid practitioner of meditation and yoga and I am a new student to the art of qijong. <br>
+I love cooking low and slow BBQ and I also love pizza, checkout out my pizza review page here on Instagram! <br>
 <a href="https://www.instagram.com/turtle_power_pizza_review">
 Turtle Power Pizza Review <a/>
