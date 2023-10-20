@@ -20,6 +20,7 @@ I'm a former professional musician who discovered coding when times became tough
  
  ## <a name="tech-stack">Tech Stack 🤖</a> 
 - JavaScript (React, Node.js, Express, MongoDB, Jest, Cypress)
+- Python (pytest)
 - Ruby (Sinatra, RSpec) 
 - SQL (PostgreSQL, TablePlus)
 - HTML, CSS
