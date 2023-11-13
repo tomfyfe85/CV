@@ -36,7 +36,7 @@ I'm a former professional musician who discovered coding when times became tough
               
 ## Work Experience 👷‍♂️
 
-**Freelance Musician (drum set) - functions, events and international tours (2009-2023)**   
+**Freelance Musician (drum set) - functions, events and international tours (2009 - ongoing)**   
 - Working independently, lifelong learning & always striving to improve my skillset - I often had to learn a new 2 hour set each week. 
 - Adaptable, resilient  and pro-active - being punctual and properly prepared for the performance, getting things right first time so I always asked back.    
  
